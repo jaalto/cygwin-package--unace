@@ -1,0 +1,15 @@
+ unace.1 |    4 ++--
+ 1 files changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/unace.1 b/unace.1
+index b526805..1e23228 100644
+--- a/unace.1
++++ b/unace.1
+@@ -48,5 +48,5 @@ Assume 'yes' on all questions, never ask for input.
+ .BR arj (1),
+ .BR ppmd (1).
+ .SH AUTHOR
+-This manual page was written by Guillem Jover <guillem@debian.org>,
+-for the Debian project (but may be used by others).
++This manual page was written by Guillem Jover <guillem@debian.org>.
++

@@ -1,0 +1,63 @@
+unace
+------------------------------------------
+
+Extract, test and view *.ace archives
+
+The utility is used for extracting, testing and viewing the
+contents of archives created with the ACE archiver.
+
+Runtime requirements:
+  cygwin
+
+Build requirements:
+  cygwin
+
+Canonical homepage:
+  http://packages.debian.org/unace
+
+Canonical download:
+  See above
+
+Version control repository:
+
+Mailing list:
+
+Forum / Wiki:
+
+IRC channel:
+
+Upstream contact:
+  Maintainer: Marcel Lemke <mlemke@winace.com>
+  Bugs: Marcel Lemke <mlemke@winace.com>
+
+License:
+  GPL
+
+Language:
+  C
+
+------------------------------------------
+
+Build instructions:
+  unpack unace-*-src.tar.bz2
+    if you use setup to install this src package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./unace*.sh all
+
+------------------------------------------
+
+Files included in the binary distribution:
+  <See content of *.tar.gz>
+
+------------------------------------------
+
+Port Notes:
+- Original tar package, when viewed, displays harmless warning:
+  /usr/bin/tar: A lone zero block at 242
+
+----- version 1.2b-1 -----
+- Initial release 2008-02-19 Jari Aalto
+
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2008 Jari Aalto; Licensed under GPL v2 or later

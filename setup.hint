@@ -1,0 +1,5 @@
+sdesc: "Extract, test and view *.ace archives"
+ldesc: "The utility is used for extracting, testing and viewing the
+contents of archives created with the ACE archiver."
+category: Archive
+requires: cygwin
